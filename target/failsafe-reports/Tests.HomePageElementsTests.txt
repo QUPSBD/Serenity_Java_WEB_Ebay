@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: Tests.HomePageElementsTests
+-------------------------------------------------------------------------------
+Tests run: 11, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 315.761 s <<< FAILURE! - in Tests.HomePageElementsTests
+Tests.HomePageElementsTests.fashionTest  Time elapsed: 15.321 s  <<< FAILURE!
+java.lang.AssertionError: expected:<Fashion That[’]s Made for You> but was:<Fashion That[â€™]s Made for You>
+	at Tests.HomePageElementsTests.fashionTest(HomePageElementsTests.java:79)
+

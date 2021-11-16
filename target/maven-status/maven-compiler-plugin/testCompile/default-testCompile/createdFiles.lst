@@ -1,0 +1,13 @@
+Steps\HomePage.class
+Tests\HomePageElementsTests.class
+Tests\SearchProductsTest.class
+Tests\HomePageTest.class
+Tests\PopularCategoriesTests.class
+Tests\SearchProductCategoryTest.class
+Steps\PopularCategories.class
+Steps\SignIn.class
+FirstTestCase.class
+Utils\Locators.class
+Steps\SearchItems.class
+Utils\TimeOut.class
+Pages\CommonPages.class
